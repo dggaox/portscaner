@@ -1,0 +1,21 @@
+把下面的复制粘贴到自己host里面 一般路径都是在：C:\Windows\System32\drivers\etc下面
+以记事本格式打开
+# GitHub Start
+192.30.253.112    github.com
+192.30.253.119    gist.github.com
+199.232.28.133    assets-cdn.github.com
+199.232.28.133    raw.githubusercontent.com
+199.232.28.133    gist.githubusercontent.com
+199.232.28.133    cloud.githubusercontent.com
+199.232.28.133    camo.githubusercontent.com
+199.232.28.133    avatars0.githubusercontent.com
+199.232.28.133    avatars1.githubusercontent.com
+199.232.28.133    avatars2.githubusercontent.com
+199.232.28.133    avatars3.githubusercontent.com
+199.232.28.133    avatars4.githubusercontent.com
+199.232.28.133    avatars5.githubusercontent.com
+199.232.28.133    avatars6.githubusercontent.com
+199.232.28.133    avatars7.githubusercontent.com
+199.232.28.133    avatars8.githubusercontent.com
+ # GitHub End
+复制完成重新打开浏览器刷新网页，即可正常显示图片！
